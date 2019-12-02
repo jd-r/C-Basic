@@ -67,8 +67,8 @@ if(a == 1) {
 }
 ```
 
-## Repl.it link
-https://repl.it/@j_diegodiego/C-Basic
-
 ## Examples
-Examples can be found in the `examples` folder
+Examples can be found in the `examples` 
+
+## How to run it?
+The code can be found in [repl.it](https://repl.it/@j_diegodiego/C-Basic), where you click the "Run" button and then enter the name of a program to compile and run it.
