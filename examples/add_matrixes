@@ -3,14 +3,14 @@ int r1, c1, r2, c2, opcion
 int mat1[5][5], mat2[5][5], res[5][5]
 
 function read() { 
-    print("Ingrese los elementos de la primera matriz")
+    print("Enter the numbers of the first matrix")
     for(int i=0; i<r1; i++) { 
         for(int j=0; j<c1; j++) {
             input(mat1[i][j]) 
         } 
     }
 
-    print("Ingrese los elementos de la segunda matriz")
+    print("Enter the numbers of the second matrix")
     for(int i=0; i<r2; i++) { 
         for(int j=0; j<c2; j++) { 
             input(mat2[i][j]) 
@@ -45,7 +45,7 @@ function multi() {
 }
 
 function write() {
-    print("La matriz resultante es")
+    print("The resulting matrix is")
     for(int i=0; i<r1; i++) {
         for(int j=0; j<c2; j++) {
             prints(res[i][j])
@@ -55,15 +55,15 @@ function write() {
 }
 
 
-print("Ingrese el tamaño de una matriz, maximo 5x5")
+print("Enter the size of one matrix, max 5x5")
 input(r1, c1)
-print("Ingrese el tamaño de otra matriz, maximo 5x5")
+print("Enter the size of another matrix, max 5x5")
 input(r2, c2)
 
 read()
-print("elige una opcion:")
-print("1) sumar las matrices")
-print("2) multiplicarlas")
+print("Choose one option:")
+print("1) Add the matrices")
+print("2) Multiply them")
 
 input(opcion)
 if (opcion == 1) {
@@ -71,7 +71,7 @@ if (opcion == 1) {
         suma()
         write()
     } else {
-        print("Error, las matrices no son del mismo tamaño")
+        print("Error, matrices aren't from the same size")
     }
 } else if (opcion == 2) {
     if (c1 == r2) {
@@ -79,8 +79,8 @@ if (opcion == 1) {
         multi()
         write()
     } else {
-        print("Error, la columna de primera matriz no es igual a la fila de la segunda")
+        print("Error, the column from the first matrix isn't equal to the row from the second one")
     }
 } else {
-    print("Opcion equivocada")
+    print("Wrong option")
 }

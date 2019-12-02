@@ -14,7 +14,7 @@ function suma() {
 }
 
 function write1() {
-  print("La primera matriz es")
+  print("The first matrix is")
   for(int i=0; i<2; i++) {
     for(int j=0; j<3; j++) {
   		for(int k=0; k<2; k++) {
@@ -27,7 +27,7 @@ function write1() {
 }
 
 function write2() {
-  print("La segunda matriz es")
+  print("The second matrix is")
   for(int i=0; i<2; i++) {
     for(int j=0; j<3; j++) {
   		for(int k=0; k<2; k++) {
@@ -40,7 +40,7 @@ function write2() {
 }
 
 function write() {
-  print("La matriz resultante es")
+  print("The resulting matrix is")
   for(int i=0; i<2; i++) {
     for(int j=0; j<3; j++) {
   		for(int k=0; k<2; k++) {

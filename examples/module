@@ -2,25 +2,25 @@ int inum, num
 
 function write() {
 	if(num == 0) {
-		print("cero")
+		print("zero")
 	} else if(num == 1) {
-		print("uno")
+		print("one")
 	} else if(num == 2) {
-		print("dos")
+		print("two")
 	} else if(num == 3) {
-		print("tres")
+		print("three")
 	} else if(num == 4) {
-		print("cuatro")
+		print("four")
 	} else if(num == 5) {
-		print("cinco")
+		print("five")
 	} else if(num == 6) {
-		print("seis")
+		print("six")
 	} else if(num == 7) {
-		print("siete")
+		print("seven")
 	} else if(num == 8) {
-		print("ocho")
+		print("eigth")
 	} else {
-		print("nueve")
+		print("nine")
 	}
 }
 

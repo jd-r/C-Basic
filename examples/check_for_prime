@@ -17,7 +17,7 @@ function checkForPrime() {
 	
 }
 
-print("Checa si un numero es primo:")
+print("Check if a number is a prime number:")
 input(n1)
 
 i = n1 / 2
@@ -25,7 +25,7 @@ i = n1 / 2
 checkForPrime()
 
 if(primeNo == 1) {
-	print("El numero", n1, "es primo")
+	print("Number", n1, "is prime")
 } else {
-	print("El numero", n1, "no es primo")
+	print("Number", n1, "isn't prime")
 }

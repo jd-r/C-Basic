@@ -34,44 +34,44 @@ function euler() {
 }
 
 do {
-	print("elige una opcion:")
-	print("1) calcular x!")
-	print("2) calcular x^y")
-	print("3) calcular e^x")
+	print("Choose an option:")
+	print("1) Calculate x!")
+	print("2) Calculate x^y")
+	print("3) Calculate e^x")
 
 
 	input(opcion)
 	if (opcion == 1) {
-		print("=== Opcion Factorial===")
-		print("ingrese un numero:")
+		print("===Factorial===")
+		print("Enter a number:")
 		input(x)
 		int n = x
 		res = x
 		x--
 
 		factorial()
-		print("Factorial de", n, "=", res)
+		print("Factorial of", n, "=", res)
 	} else if (opcion == 2) {
-		print("=== Opcion Exponencial===")
-		print("ingrese dos numeros:")
+		print("===Exponencial===")
+		print("Enter two numbers:")
 		input(x2, y2)
 
 		exponencial()
 		print(x2, "^", y2, "=", res2)
 	} else if (opcion == 3) {
-		print("=== Opcion Euler===")
-		print("ingrese un numero:")
+		print("===Euler===")
+		print("Enter a number:")
 		input(x2)
 
 		euler()
 		print("e^", x2, "=", res3)
 	}
 	else {
-		print("Opcion equivocada")
+		print("Wrong option")
 	} 
 	int q
 	print("")
-	print("Quieres realizar otro calculo? 0=No / 1=Si")
+	print("Would you like to perform another calculation? 0=No / 1=Yes")
 	input(q)
 } while(q != 0);
-print("Adios!")
+print("Bye!")

@@ -1,35 +1,33 @@
 /*
-Programa que lee un numero entre 0 y 7, , si no está, lo lee
-de nuevo.  Despliegue el número en letras usando ifs anidados
-… uno, dos….  
-
+Program that reads a number between 0 and 7, if it isn't there, it reads it again.
+It prints the number is letter using nested ifs
 */
 
 int num
-print("ingrese un numero entre 0 y 7")
+print("Enter a number between 0 and 7")
 input(num)
 
 while(num > 7 || num < 0) {
-	// evalua que el numero ingresado este en los limites
-	print("Error el numero no esta entre los rangos, intente de nuevo")
+	// Evaluates if the number is between the limits
+	print("The number isn't between the range, try again")
 	input(num)
 }
 
-// Ifs anidados que funcionan como un switch case
+// Nested ifs that work as a switch case
 if(num == 0) {
-	print("cero")
+  print("zero")
 } else if(num == 1) {
-	print("uno")
+  print("one")
 } else if(num == 2) {
-	print("dos")
+  print("two")
 } else if(num == 3) {
-	print("tres")
+  print("three")
 } else if(num == 4) {
-	print("cuatro")
+  print("four")
 } else if(num == 5) {
-	print("cinco")
+  print("five")
 } else if(num == 6) {
-	print("seis")
+  print("six")
 } else {
-	print("siete")
+	print("seven")
 }
