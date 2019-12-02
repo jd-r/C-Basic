@@ -56,7 +56,7 @@ while(i==0) {
 
 do {
   // Do while
-} while(i==0)
+} while(i==0);
 ```
 
 ### Conditional Statements
