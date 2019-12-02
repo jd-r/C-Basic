@@ -1,0 +1,86 @@
+int b = 0 
+int r1, c1, r2, c2, opcion 
+int mat1[5][5], mat2[5][5], res[5][5]
+
+function read() { 
+    print("Ingrese los elementos de la primera matriz")
+    for(int i=0; i<r1; i++) { 
+        for(int j=0; j<c1; j++) {
+            input(mat1[i][j]) 
+        } 
+    }
+
+    print("Ingrese los elementos de la segunda matriz")
+    for(int i=0; i<r2; i++) { 
+        for(int j=0; j<c2; j++) { 
+            input(mat2[i][j]) 
+        } 
+    }  
+}
+
+function suma() {
+    for(int i=0; i<r1; i++) {
+        for(int j=0; j<c1; j++) {
+            res[i][j] = mat1[i+0][j] + mat2[i][j-0]
+        }
+    }
+}
+
+function init() {
+    for(int i=0; i<r1; i++) {
+        for(int j=0; j<c2; j++) {
+            res[i][j] = 0
+        }
+    }
+}
+
+function multi() {
+    for(int i=0; i<r1; i++) {
+        for(int j=0; j<c2; j++) {
+            for(int k = 0; k<c1; k++) {
+                res[i][j] = res[i][j] + mat1[i][k] * mat2[k][j]
+            }
+        }
+    }
+}
+
+function write() {
+    print("La matriz resultante es")
+    for(int i=0; i<r1; i++) {
+        for(int j=0; j<c2; j++) {
+            prints(res[i][j])
+        }
+        print("")
+    }
+}
+
+
+print("Ingrese el tamaño de una matriz, maximo 5x5")
+input(r1, c1)
+print("Ingrese el tamaño de otra matriz, maximo 5x5")
+input(r2, c2)
+
+read()
+print("elige una opcion:")
+print("1) sumar las matrices")
+print("2) multiplicarlas")
+
+input(opcion)
+if (opcion == 1) {
+    if (r1 == r2 && c1 == c2) {
+        suma()
+        write()
+    } else {
+        print("Error, las matrices no son del mismo tamaño")
+    }
+} else if (opcion == 2) {
+    if (c1 == r2) {
+        init()
+        multi()
+        write()
+    } else {
+        print("Error, la columna de primera matriz no es igual a la fila de la segunda")
+    }
+} else {
+    print("Opcion equivocada")
+}

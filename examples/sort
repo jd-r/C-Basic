@@ -1,0 +1,50 @@
+int arr[10]
+int n, q = 0
+
+function read() {
+	print("Ingrese los elementos del vector")
+	for(int i=0; i<n; i++) { 
+    input(arr[i]) 
+  }
+
+}
+function sort() {
+	int i, j, min, temp
+	int n2 = n - 1
+	for (i = 0; i < n2 ; i++) {
+    min = i
+    for (j = i + 1; j < n; j++) {
+      if (arr[j] < arr[min]) { 
+        min = j
+      }
+    }
+    temp = arr[i]
+    arr[i] = arr[min]
+    arr[min] = temp
+  }
+}
+
+function write() {
+	print("Vector ordenado:")
+	for(int i=0; i<n; i++) { 
+    prints(arr[i]) 
+  }
+  print("")
+}
+
+do {
+  print("Ingrese el tamaño de un vector, maximo 10")
+  input(n)
+  if(n <= 10) {
+	  read()
+	  sort()
+	  write()
+
+	  print("Quieres ordenar otro vector? 0=No / 1=Si")
+		input(q)
+	} else {
+    print("Error, tamaño maximo es 10, intente de nuevo")
+    q = 1
+  }
+} while(q != 0);
+print("Adios!")

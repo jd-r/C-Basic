@@ -1,0 +1,33 @@
+int inum, num
+
+function write() {
+	if(num == 0) {
+		print("cero")
+	} else if(num == 1) {
+		print("uno")
+	} else if(num == 2) {
+		print("dos")
+	} else if(num == 3) {
+		print("tres")
+	} else if(num == 4) {
+		print("cuatro")
+	} else if(num == 5) {
+		print("cinco")
+	} else if(num == 6) {
+		print("seis")
+	} else if(num == 7) {
+		print("siete")
+	} else if(num == 8) {
+		print("ocho")
+	} else {
+		print("nueve")
+	}
+}
+
+input(inum)
+
+while(inum > 0) {
+	num = inum % 10
+	write()
+	inum = inum / 10
+}

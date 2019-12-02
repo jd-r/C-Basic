@@ -1,0 +1,31 @@
+int i, n1, n2, primeNo
+
+function checkForPrime() {
+	if (i == 1) {
+		primeNo = 1
+		return 
+	} else  {
+		n2 = n1 % i
+		if (n2 == 0) {
+			primeNo = 0
+			return
+		} else {
+			i = i - 1
+			checkForPrime()
+		}	
+	}
+	
+}
+
+print("Checa si un numero es primo:")
+input(n1)
+
+i = n1 / 2
+
+checkForPrime()
+
+if(primeNo == 1) {
+	print("El numero", n1, "es primo")
+} else {
+	print("El numero", n1, "no es primo")
+}

@@ -1,0 +1,1290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"priq",
+				"printq"
+			],
+			[
+				"func",
+				"functions"
+			],
+			[
+				"q",
+				"qhelper"
+			],
+			[
+				"foraux",
+				"foraux2"
+			],
+			[
+				"for",
+				"foraux1"
+			],
+			[
+				"a",
+				"assignment"
+			],
+			[
+				"assig",
+				"assignordeclare"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"adduser"
+			],
+			[
+				"input",
+				"inputUserName"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"while",
+				"while_aux1"
+			],
+			[
+				"goto",
+				"gotoF"
+			],
+			[
+				"quad",
+				"quadruples"
+			],
+			[
+				"qu",
+				"quadruples"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"else",
+				"else_aux2"
+			],
+			[
+				"if_aux",
+				"if_aux2"
+			],
+			[
+				"con",
+				"counter"
+			],
+			[
+				"triangu",
+				"triangulars"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"en",
+				"endl\tostream"
+			],
+			[
+				"tem",
+				"temps"
+			],
+			[
+				"op",
+				"operands"
+			],
+			[
+				"f",
+				"for\tFor Loop"
+			],
+			[
+				"cl",
+				"class\tclass-..-(class)"
+			],
+			[
+				"sor",
+				"sort\tfunc"
+			],
+			[
+				"c",
+				"cpp\tcpp"
+			],
+			[
+				"vec",
+				"vector\tstandard header"
+			],
+			[
+				"ve",
+				"vector\tstd::vector"
+			],
+			[
+				"push",
+				"push_back\tfunc"
+			],
+			[
+				"T",
+				"template"
+			],
+			[
+				"print",
+				"printListAdj"
+			],
+			[
+				"listAdj",
+				"listAdj"
+			],
+			[
+				"list",
+				"listAdj"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"unor",
+				"unordered_map\tstandard header (since c++11)"
+			],
+			[
+				"iRC",
+				"iRCounter-1"
+			],
+			[
+				"reser",
+				"reservationsFile"
+			],
+			[
+				"iC",
+				"iClientID"
+			],
+			[
+				"end",
+				"endOfReservation"
+			],
+			[
+				"reserv",
+				"reservationDate"
+			],
+			[
+				"im",
+				"iMCounter"
+			],
+			[
+				"dat",
+				"reservationDate"
+			],
+			[
+				"Mater",
+				"iMaterialID"
+			],
+			[
+				"prin",
+				"printMadAjd"
+			],
+			[
+				"dAte",
+				"Date"
+			],
+			[
+				"S",
+				"Software"
+			],
+			[
+				"REser",
+				"reservations"
+			],
+			[
+				"re",
+				"reservationDate"
+			],
+			[
+				"iM",
+				"iMaterialID"
+			],
+			[
+				"Res",
+				"reservations"
+			],
+			[
+				"ope",
+				"openReservationsFile"
+			],
+			[
+				"di",
+				"displayByDate"
+			],
+			[
+				"dis",
+				"displayReservations"
+			],
+			[
+				"do",
+				"doReservation"
+			],
+			[
+				"disp",
+				"displayByDate"
+			],
+			[
+				"open",
+				"openMaterialsFile"
+			],
+			[
+				"d",
+				"do\tDo While Loop"
+			],
+			[
+				"sO",
+				"sOperatingSystem"
+			],
+			[
+				"set",
+				"setNumOfPages"
+			],
+			[
+				"sA",
+				"sAuthor"
+			],
+			[
+				"iN",
+				"iNumOfPages"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"sT",
+				"sTitle"
+			],
+			[
+				"Re",
+				"Reservation"
+			],
+			[
+				"def",
+				"def\t#ifndef … #define … #endif"
+			],
+			[
+				"Rer",
+				"Reservation_h"
+			],
+			[
+				"get",
+				"getByIndex"
+			],
+			[
+				"getA",
+				"getAccountType"
+			],
+			[
+				"cA",
+				"cAccountType"
+			],
+			[
+				"account",
+				"accountNo"
+			],
+			[
+				"Accou",
+				"AccountNo"
+			],
+			[
+				"s",
+				"switch\tswitch"
+			],
+			[
+				"dB",
+				"dBalance"
+			],
+			[
+				"credi",
+				"creditLimit"
+			],
+			[
+				"gr",
+				"growthRate"
+			],
+			[
+				"nam",
+				"nameOfMonth"
+			],
+			[
+				"gen",
+				"generateArea"
+			],
+			[
+				"getd",
+				"getData"
+			],
+			[
+				"copy",
+				"copyConstructorHelper"
+			],
+			[
+				"ances",
+				"ancestorHelper"
+			],
+			[
+				"se",
+				"setLeft"
+			],
+			[
+				"mirror",
+				"mirrorHelper"
+			],
+			[
+				"iDen",
+				"iDenominator"
+			],
+			[
+				"iNum",
+				"iNumerator"
+			],
+			[
+				"iR",
+				"iReal"
+			],
+			[
+				"frac",
+				"fraction1"
+			],
+			[
+				"fra",
+				"fraction1"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"iD",
+				"iDenominator"
+			],
+			[
+				"height",
+				"heightHelper"
+			],
+			[
+				"heigh",
+				"heightHelper"
+			],
+			[
+				"ge",
+				"getData"
+			],
+			[
+				"N",
+				"NodeT"
+			],
+			[
+				"v",
+				"vector\tstd::vector"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"count",
+				"countHelper"
+			],
+			[
+				"coun",
+				"countHelper"
+			],
+			[
+				"sq",
+				"squiggly_underline"
+			],
+			[
+				"st",
+				"stippled_underline"
+			],
+			[
+				"underline",
+				"stippled_underline"
+			],
+			[
+				"pre",
+				"preOrder"
+			],
+			[
+				"display",
+				"displaySeats"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "syntax.py",
+			"settings":
+			{
+				"buffer_size": 15529,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tester",
+			"settings":
+			{
+				"buffer_size": 1151,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "run.py",
+			"settings":
+			{
+				"buffer_size": 5887,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pepe",
+			"settings":
+			{
+				"buffer_size": 91,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/jdrdz/GoogleDrive/cpp/main.cpp",
+			"settings":
+			{
+				"buffer_size": 136,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				"Run in Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"Run in Terminal"
+				],
+				[
+					"Packages/User/cplusplus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				"Run in Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"input.txt"
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"input.txt"
+				],
+				[
+					"Packages/User/cplusplus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				"Run in Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"input.txt"
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				"input.txt"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: cpp"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packge",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"colorsubl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"reomo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"subli",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"d",
+				"Package Control: Disable Package"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeLinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"reomv",
+				"Package Control: Remove Package"
+			],
+			[
+				"reomve",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 184.0,
+		"history":
+		[
+			"open_folder",
+			"persist.linter_classes",
+			"linter_class.disabled = True",
+			"linter_gcc.disabled = True",
+			"linter_class.disabled = True",
+			"view.settings().get('SublimeLinter')",
+			"view.settings().get('linters')",
+			"view.settings().get('SublimeLinter')",
+			"view.settings().get('linters_gcc_disable')",
+			"view.settings().get('linters.gcc.disable()\")",
+			"view.settings().get('linters.gcc.disable')",
+			"view.settings().get('linters')",
+			"view.settings().get('linters_gcc')",
+			"view.settings().get('linters')",
+			"view.settings().get('word_wrap')",
+			"view.settings().get('linters/gcc/disble')",
+			"view.settings().get('linters/gcc')",
+			"view.settings().get('linters')",
+			"view.settings().get('font_face')",
+			"edit_settings",
+			"set_setting",
+			"toggle_setting",
+			"sublime.log_commands(True)",
+			"view.settings().LinterSettings",
+			"view.settings().get('front_face')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jdrdz/GoogleDrive/semestre7/lyt"
+	],
+	"file_history":
+	[
+		"/C/Users/jdrdz/GoogleDrive/semestre7/lyt/checker.py",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/cplusplus.sublime-build",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+		"/C/Users/jdrdz/GoogleDrive/cpp/main.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semestre7/lyt/if_while.txt",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/javascript.sublime-build",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-build",
+		"/C/Users/jdrdz/GoogleDrive/semestre7/lyt/syntaxWorks.py",
+		"/C/Users/jdrdz/GoogleDrive/cpp/mains.cpp",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/jdrdz/NodeProjects/nodetest2/app.js",
+		"/C/Users/jdrdz/NodeProjects/nodetest2/routes/users.js",
+		"/C/Users/jdrdz/GoogleDrive/PlatformIO/Projects/GeoLean/mysql/mysqlmain.cpp",
+		"/C/Users/jdrdz/GoogleDrive/PlatformIO/Projects/GeoLean/sniffnsend.cpp",
+		"/C/Users/jdrdz/GoogleDrive/PlatformIO/Projects/GeoLean/src/goodsqlsniffer.cpp",
+		"/C/Users/jdrdz/NodeProjects/nodetest2/public/javascripts/global.js",
+		"/C/Users/jdrdz/GoogleDrive/PlatformIO/Projects/GeoLean/sqlsniffer2.cpp",
+		"/C/Users/jdrdz/NodeProjects/nodetest2/views/index.jade",
+		"/C/Users/jdrdz/GoogleDrive/semestre7/lyt/syntax.py",
+		"/C/Users/jdrdz/NodeProjects/nodetest1/app.js",
+		"/C/Users/jdrdz/nodetest1/app.js",
+		"/C/Users/jdrdz/NodeProjects/nodetest2/views/layout.jade",
+		"/C/Users/jdrdz/NodeProjects/nodetest2/public/stylesheets/style.css",
+		"/C/Users/jdrdz/nodetest1/routes/index.js",
+		"/C/Users/jdrdz/nodetest1/views/newuser.ejs",
+		"/C/Users/jdrdz/nodetest1/views/userlist.ejs",
+		"/C/Users/jdrdz/nodetest1/views/index.ejs",
+		"/C/Users/jdrdz/nodetest1/views/helloworld.ejs",
+		"/C/Users/jdrdz/Appdata/Roaming/Sublime Text 3/Packages/User/Python.sublime-build",
+		"/C/Users/jdrdz/GoogleDrive/python/hello.py",
+		"/C/Users/jdrdz/Desktop/syntax.py",
+		"/C/Users/jdrdz/Desktop/hello.js",
+		"/C/Users/jdrdz/GoogleDrive/cpp/k.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semestre7/lyt/lexer.py",
+		"/C/Users/jdrdz/GoogleDrive/python/pigeon_service.py",
+		"/C/Users/jdrdz/GoogleDrive/python/reachingPoints.py",
+		"/C/Users/jdrdz/GoogleDrive/python/test.py",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/heaters.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/colorStripe.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/funkyNumbers.cpp",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/cpp.sublime-snippet",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/distinctDigits.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/stringEqualization.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/ribbon.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/sashasTrip.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/wayHome.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/cutRibbon.py",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/dynamicProgramming.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/maxIncrease.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/alexRombus.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/hitLottery.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/sportmafia.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/sushi.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/diverseSubstring.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/apranck.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/unimod.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/margarita.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/origami.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/input",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/input.txt",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/unimod.py",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/grapes.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/digitsSequence.cpp",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/SublimeInput.sublime-settings",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/servalbus.cpp",
+		"/C/Users/jdrdz/GoogleDrive/python/fibo.py",
+		"/C/Users/jdrdz/GoogleDrive/cpp/main",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/Sublime Input/Default (Windows).sublime-keymap",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/outputf.in",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/inputf.in",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/input.in",
+		"/C/Users/jdrdz/GoogleDrive/semanaI/serval.cpp",
+		"/C/Users/jdrdz/GoogleDrive/semestre 7/lyt/syntax.py",
+		"/C/Users/jdrdz/GoogleDrive/PlatformIO/Projects/esp8266/anonymous_identity.cpp",
+		"/C/Users/jdrdz/GoogleDrive/User/SublimeLinter.sublime-settings",
+		"/C/Users/jdrdz/Google Drive/User/Python.sublime-build",
+		"/C/Users/jdrdz/Google Drive/cpp/main.cpp",
+		"/C/Users/jdrdz/Google Drive/python/hello.py",
+		"/C/Users/jdrdz/Google Drive/User/Default (Linux).sublime-keymap",
+		"/C/Users/jdrdz/Google Drive/User/SublimeLinter.sublime-settings",
+		"/C/Users/jdrdz/Documents/PlatformIO/Projects/esp8266-sniffer-master/OriginalSniffAndSend.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/cpp/main.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/estructura de datos/LinkedList/LinkedList.h",
+		"/C/Users/jdrdz/OneDrive/Documents/PlatformIO/Projects/GeoLean/src/main.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/hashTable.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/PlatformIO/Projects/esp8266-probe-sniffer-master/src/user_main.c",
+		"/C/Users/jdrdz/OneDrive/Documents/PlatformIO/Projects/GeoLeanSpot/src/main.cpp",
+		"/C/Users/jdrdz/.platformio/packages/framework-arduinoespressif8266/libraries/FirebaseArduino/src/FirebaseHttpClient.h",
+		"/C/Users/jdrdz/.platformio/packages/framework-arduinoespressif8266/libraries/FirebaseArduino/src/FirebaseHttpClient_Esp8266.cpp",
+		"/C/Users/jdrdz/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoJson/ArduinoJson.h",
+		"/C/Users/jdrdz/AppData/Local/Temp/Temp1_Hola (1).zip/Hola/hola.tab.h",
+		"/C/Users/jdrdz/OneDrive/Documents/ArduinoData/packages/esp8266/tools/xtensa-lx106-elf-gcc/1.20.0-26-gb404fb9-2/xtensa-lx106-elf/include/c++/4.8.2/backward/hashtable.h",
+		"/C/Users/jdrdz/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoJson/src/ArduinoJson.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/hello.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/estructura de datos/LinkedList/Node.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/toptec/IsUnique.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/toptec/checkPermutation.cpp",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/User/for.sublime-snippet",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/030-for-int-loop-(fori).sublime-snippet",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/toptec/checkPermutation",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/toptec/IsUnique",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/estructura de datos/LinkedList/main.cpp",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/jdrdz/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/if-..-(if).sublime-snippet",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/project 2/Date.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/project 2/CD.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/project 2/Software.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/project 2/Book.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/project 2/Reservation.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/operator overload/Fraction.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/operator overload/OperatorsToOverload.txt",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/operator overload/main.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/act3. sphere class/Sphere.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/factorial.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/Math.h/main.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/Math.h/Math.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/project 2/main.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/project 2/Material.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/inheritance and polymorphism/Shape/main.cpp",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/inheritance and polymorphism/savings and credit/Account.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/inheritance and polymorphism/savings and credit/Credit.h",
+		"/C/Users/jdrdz/OneDrive/Documents/semestre 6/pogra orientada a objetos/inheritance and polymorphism/savings and credit/main.cpp"
+	],
+	"find":
+	{
+		"height": 42.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"numberorid",
+			"gotoP",
+			"ID",
+			"callfunc",
+			"numberorid",
+			"id",
+			"function",
+			"callfunc",
+			"fucntions",
+			"{}\n",
+			"for",
+			"declaration",
+			"ID",
+			"forplus",
+			"plusplus",
+			"for",
+			"assignment",
+			"for"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\jdrdz\\GoogleDrive\\semestre7\\lyt"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "syntax.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+								"SL.flake8.Highlights.%HIDDEN%|a6b725d5aac0073633136a6e31b62aa286b6f4510f2f92036ff814836ead5b81|region.yellowish markup.warning.sublime_linter|128",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tester",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "run.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2299,
+								2299
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.45.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.63.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1492.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pepe",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/jdrdz/GoogleDrive/cpp/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"SL.31.region_keys":
+							[
+								"SL.g++.Highlights.%HIDDEN%|daaa6ad22fd9b343c9f5b0b370fedc4b0fe7584cd0833dd9efd1fae33404db43|region.pinkish markup.error.sublime_linter|128",
+								"sublime_linter.protected_regions",
+								"SL.g++.Gutter.|region.pinkish markup.error.sublime_linter|dot"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 139.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 132.0
+	},
+	"output.exec":
+	{
+		"height": 123.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,59 @@
+int arr1[2][3][2] = {1,2,3,4,5,6,7,8,9,10,11,12}
+int arr2[2][3][2] = {1,2,3,4,5,6,7,8,9,10,11,12}
+
+int res[2][3][2]
+
+function suma() {
+  for(int i=0; i<2; i++) {
+    for(int j=0; j<3; j++) {
+    	for(int k=0; k<2; k++) {
+        res[i][j][k] = arr1[i][j][k] + arr2[i][j][k]
+      }
+    }
+  }
+}
+
+function write1() {
+  print("La primera matriz es")
+  for(int i=0; i<2; i++) {
+    for(int j=0; j<3; j++) {
+  		for(int k=0; k<2; k++) {
+  			prints(arr1[i][j][k])
+  		}
+  		print("")
+    }
+		print("")
+  }
+}
+
+function write2() {
+  print("La segunda matriz es")
+  for(int i=0; i<2; i++) {
+    for(int j=0; j<3; j++) {
+  		for(int k=0; k<2; k++) {
+  			prints(arr2[i][j][k])
+  		}
+  		print("")
+    }
+		print("")
+  }
+}
+
+function write() {
+  print("La matriz resultante es")
+  for(int i=0; i<2; i++) {
+    for(int j=0; j<3; j++) {
+  		for(int k=0; k<2; k++) {
+  			prints(res[i][j][k])
+  		}
+  		print("")
+    }
+		print("")
+  }
+}
+
+suma()
+write1()
+write2()
+
+write()
