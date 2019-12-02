@@ -70,5 +70,5 @@ if(a == 1) {
 ## Examples
 Examples can be found in the `examples` 
 
-## How to run it?
+## How to run a program?
 The code can be found in [repl.it](https://repl.it/@j_diegodiego/C-Basic), where you click the "Run" button and then enter the name of a program to compile and run it.
