@@ -1,9 +1,12 @@
 # C-Basic
-C Basic is a small programming language that makes it easy for beginners to learn to code.
+C Basic is a small programming language with a readable and intuitive syntax that makes it easy for beginners to learn to code.
 
-It is a high-level, interpreted, statically-typed programming language designed for a compilers course at Tecnologico de Monterrey. It is written completely in Python3 using PLY. The language syntax is meant to be very readable and intuitive.
+It is a high-level, interpreted and statically-typed language written in Python3 with [PLY](https://www.dabeaz.com/ply/). It was designed for a compilers course at Tecnologico de Monterrey. 
 
-It supports various fundamental programming concepts such as variable-declaration, function calling, conditional statements, loops, proper order of operations, and recursion. But it also supports more complex things like multidimensional arrays; expressions inside array parameters: arr1[2+var1][2][2]; exponentiation(x**y); and modules(%).
+It supports various fundamental programming concepts such as variable-declaration, function calling, conditional statements, loops, proper order of operations, and recursion. But it also supports more complex things like multidimensional arrays; expressions inside array parameters: `arr1[2+var1][2][2]` eexponentiatio `x**y` and modules `x%11`
+
+## Demo
+The code can be found in [repl.it](https://repl.it/@j_diegodiego/C-Basic), where you click the "Run" button and then enter the name of a program to compile and run it.
 
 ## Syntax
 
@@ -69,6 +72,3 @@ if(a == 1) {
 
 ## Examples
 Examples can be found in the `examples` 
-
-## How to run a program?
-The code can be found in [repl.it](https://repl.it/@j_diegodiego/C-Basic), where you click the "Run" button and then enter the name of a program to compile and run it.
